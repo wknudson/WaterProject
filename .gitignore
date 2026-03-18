@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+.vs/
+
+# Node
+node_modules/
+
+# SQLite
+*.sqlite
+
+# Environment
+.env
